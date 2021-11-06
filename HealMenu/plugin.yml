@@ -1,0 +1,16 @@
+name: HealMenu
+main: Bimarestan\Main
+api: [3.0.0, 4.0.0]
+version: 1.0
+author: RaMiiOffiCial
+
+commands:
+  healmenu:
+    permission: healmenu.use
+    description: "§aHealMenu By RaMiiOffiCial"
+    usage: /healmenu
+    aliases: ["healui","hm"]
+
+permissions:
+  healmenu.use:
+    default: op

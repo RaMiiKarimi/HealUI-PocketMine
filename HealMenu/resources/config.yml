@@ -1,0 +1,7 @@
+heal.cost: 15
+cancelled: "§eShoma Ba Movafaqiat Kharej Shodid"
+heal.content: "§fAya Shoma Mikhahid Heal Ra Be Mablagh §2$15§a Bekharid ?"
+heal.success: "§aShoma Ba Movafaqiat Heal Ra Be Mablagh §2$15§a Kharidid"
+heal.no.money: "§cShoma Pool Mored Niaz Ra Nadarid!"
+heal.cancelled: "§4Shoma Az Kharid Khod Monsaref Shodid!"
+
